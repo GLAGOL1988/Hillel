@@ -1,0 +1,18 @@
+body {
+    background: #555;
+}
+
+.foto {
+    float: right;
+}
+
+.centre {
+    width: 650px;
+    margin: auto;
+    background: #fff;
+    padding: 20px 80px;
+}
+
+b {
+    text-decoration: underline;
+}

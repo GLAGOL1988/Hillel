@@ -1,0 +1,42 @@
+body {
+    background: teal;
+}
+
+@font-face {
+    font-family: my2;
+    src: url(10290.otf);
+}
+
+@font-face {
+    font-family: my;
+    src: url(10362.ttf);
+}
+
+h1 {
+    font-family: my2;
+}
+
+h2 {
+    font-family: my;
+}
+
+h3 {
+    font-family: my;
+}
+
+.picture {
+    display: block;
+    margin: 0 auto;
+}
+
+.page {
+    width: 700px;
+    margin: auto;
+    background: white;
+    padding: 30px 100px;
+    border: 1px solid black;
+}
+
+a {
+    color: red;
+}

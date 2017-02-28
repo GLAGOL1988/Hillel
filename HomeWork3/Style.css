@@ -1,0 +1,68 @@
+body {
+    background: gray;
+}
+
+.img {
+    background-image:url(Foto.png);
+    position: absolute;
+    left: 351px;
+    top: 0px;
+    width: 649px;
+    height: 459px;
+}
+
+#block1 {
+    width: 1000px;
+    height: 666px;
+    position: relative;
+    background-color: #010c19;
+    display: inline-block;
+}
+
+.pre1 {
+    font-size: 17px;
+    font-family: "Franklin Gothic Medium";
+    color: rgba(177, 187, 203, 0.871);
+    line-height: 1;
+    text-align: left;
+    text-shadow: 0px 0px 4px rgba(0, 0, 0, 0.65);
+    position: absolute;
+    left: 51px;
+    top: 59px;
+}
+
+.p1 {
+    font-size: 25px;
+    font-family: "Franklin Gothic Medium";
+    color: rgb(255, 255, 255);
+    line-height: 1.2;
+    text-align: left;
+    text-shadow: 0px 0px 4px rgba(0, 0, 0, 0.65);
+    position: absolute;
+    left: 88px;
+    top: 171px;
+}
+
+.pre2 {
+    font-size: 13px;
+    font-family: "Franklin Gothic Medium";
+    color: rgb(255, 255, 255);
+    line-height: 1.2;
+    text-align: left;
+    text-shadow: 0px 0px 4px rgba(0, 0, 0, 0.65);
+    position: absolute;
+    left: 49px;
+    top: 189px;
+}
+
+.p2 {
+    font-size: 12px;
+    font-family: "Franklin Gothic Medium";
+    color: rgba(255, 255, 255, 0.271);
+    line-height: 1.2;
+    text-align: left;
+    text-shadow: 0px 0px 4px rgba(0, 0, 0, 0.65);
+    position: absolute;
+    left: 42px;
+    top: 615px;
+}

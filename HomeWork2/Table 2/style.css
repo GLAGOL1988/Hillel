@@ -1,0 +1,23 @@
+table {
+    border-collapse: collapse;
+    margin: 60px auto 60px auto;
+    width: 700px;
+    height: 400px;
+}
+
+th , td {
+    border: solid 1px;
+    padding: 0px 15px;
+}
+
+#one {
+    width: 70%;
+}
+
+#two {
+    width: 15%;
+}
+
+#three {
+    width: 15%;
+}

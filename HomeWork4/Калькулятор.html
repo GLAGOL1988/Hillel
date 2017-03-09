@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Калькулятор</title>
+</head>
+<body>
+    <script>
+        var a = +prompt('Ведите первое число');
+            b = +prompt('Ведите второе число');
+            c = prompt('Ведите оператор');
+            d = alert;
+        switch (c) {
+            case '+': {
+                d = a + b;
+                document.write(a + " + " + b + " = " + d);
+                break;
+            }
+            case '-': {
+                d = a - b;
+                document.write(a + " - " + b + " = " + d);
+                break;
+            }
+            case '*': {
+                d = a * b;
+                document.write(a + " * " + b + " = " + d);
+                break;
+            }
+            case '/': {
+                d = a / b;
+                document.write(a + "/" + b + " = " + d);
+                break;
+            }
+            case '%': {
+                d = a % b;
+                document.write(a + "%" + b + "=" + d);
+                break;
+            }
+        }
+    </script>
+    <br>
+    <br>
+    <a href="Калькулятор.html"> <b>ПОСЧИТАТЬ ЕЩЁ!??</b></a>
+</body>
+</html>
